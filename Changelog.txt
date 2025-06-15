@@ -1,0 +1,7 @@
+HA5H v1.0
+• Added logo icon.
+
+HA5H v1.1
+• Fixed filename spacing.
+• Improved function to remove stray temp folders. (PYInstaller Issue)
+→ Location: %TEMP%\HA5H\_MEI##### (16MB)
