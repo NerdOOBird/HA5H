@@ -1,0 +1,10 @@
+HA5H v1.0
+• Added logo icon.
+
+HA5H v1.1
+• Fixed filename spacing.
+• Reduced startup memory usage.
+• Improved error handling.
+• Added mainloop for better restarts.
+• Improved function to remove stray temp folders. (PYInstaller Issue)
+→ %TEMP%\HA5H\_MEI##### (16MB)
