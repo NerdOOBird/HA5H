@@ -34,4 +34,4 @@ Guido van Rossum and all maintainers of Python past present and future.
 All contributors of PYInstaller. <https://pyinstaller.org/en/stable/CREDITS.html>  
 Hussain Al Marzooq and Tim Burke for the amazing work on anycrc. <https://github.com/marzooqy/anycrc>  
 Al Sweigart for creating PyGetWindow. <https://pypi.org/project/PyGetWindow/>  
-An old friend who lead me to Python and helped me improve with his every letter! JG
+An old friend who lead me to Python and helped me improve with his every letter! [@joshuag](https://github.com/joshuag)
